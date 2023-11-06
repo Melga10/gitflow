@@ -1,5 +1,8 @@
 console.log("firts commit")
 
-function sayHello ()[
+function sayHello (){
     console.log("Hello")
-]
+}
+function sayBye () {
+
+}
